@@ -23,12 +23,12 @@
   </script>
   <title>QuickShine Auto — Mobile Car Detailing in NYC | We Come to You</title>
   <meta name="description" content="Professional mobile car detailing in New York City. Exterior detailing, interior deep cleans, ceramic coating & paint correction at your home or office. Call for a free quote.">
-  <link rel="canonical" href="https://www.quickshineauto.com/index.html">
+  <link rel="canonical" href="https://www.quickshineauto.com/index.php">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="QuickShine Auto">
   <meta property="og:title" content="QuickShine Auto — Mobile Car Detailing in NYC | We Come to You">
   <meta property="og:description" content="Professional mobile car detailing in New York City. Exterior detailing, interior deep cleans, ceramic coating & paint correction at your home or office. Call for a free quote.">
-  <meta property="og:url" content="https://www.quickshineauto.com/index.html">
+  <meta property="og:url" content="https://www.quickshineauto.com/index.php">
   <meta property="og:image" content="https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=70">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Ctext y='19' font-size='19'%3E%3C/text%3E%3Cpath d='M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3c-.5-.4-1.1-.7-1.8-.7H5c-.6 0-1.1.4-1.4.9l-1.4 2.9A3.7 3.7 0 0 0 2 12v4c0 .6.4 1 1 1h2' fill='none' stroke='%23f59e0b' stroke-width='1.8'/%3E%3Ccircle cx='7' cy='17' r='2' fill='none' stroke='%23f59e0b' stroke-width='1.8'/%3E%3Ccircle cx='17' cy='17' r='2' fill='none' stroke='%23f59e0b' stroke-width='1.8'/%3E%3C/svg%3E">
@@ -40,12 +40,12 @@
 <body>
   <header class="site-header">
     <div class="container header-inner">
-      <a href="index.html" class="logo" aria-label="QuickShine Auto — home">
+      <a href="index.php" class="logo" aria-label="QuickShine Auto — home">
         <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="url(#lg)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="24" y2="24"><stop offset="0" stop-color="#ef4444"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs><path d="M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3c-.5-.4-1.1-.7-1.8-.7H5c-.6 0-1.1.4-1.4.9l-1.4 2.9A3.7 3.7 0 0 0 2 12v4c0 .6.4 1 1 1h2"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/><path d="M20.5 3.5 21 5l1.5.5L21 6l-.5 1.5L20 6l-1.5-.5L20 5z" fill="url(#lg)" stroke="none"/></svg>
         <span>QuickShine <em>Auto</em></span>
       </a>
       <nav class="main-nav" aria-label="Main navigation">
-        <a href="index.html" class="active" aria-current="page">Home</a>
+        <a href="index.php" class="active" aria-current="page">Home</a>
         <a href="services.html">Services</a>
         <a href="about.html">About</a>
         <a href="blog.html">Blog</a>
@@ -207,7 +207,7 @@
     <div class="container">
       <div class="footer-grid">
         <div class="footer-brand">
-          <a href="index.html" class="logo"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="url(#lg)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="24" y2="24"><stop offset="0" stop-color="#ef4444"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs><path d="M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3c-.5-.4-1.1-.7-1.8-.7H5c-.6 0-1.1.4-1.4.9l-1.4 2.9A3.7 3.7 0 0 0 2 12v4c0 .6.4 1 1 1h2"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/><path d="M20.5 3.5 21 5l1.5.5L21 6l-.5 1.5L20 6l-1.5-.5L20 5z" fill="url(#lg)" stroke="none"/></svg><span>QuickShine <em>Auto</em></span></a>
+          <a href="index.php" class="logo"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="url(#lg)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="24" y2="24"><stop offset="0" stop-color="#ef4444"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs><path d="M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3c-.5-.4-1.1-.7-1.8-.7H5c-.6 0-1.1.4-1.4.9l-1.4 2.9A3.7 3.7 0 0 0 2 12v4c0 .6.4 1 1 1h2"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/><path d="M20.5 3.5 21 5l1.5.5L21 6l-.5 1.5L20 6l-1.5-.5L20 5z" fill="url(#lg)" stroke="none"/></svg><span>QuickShine <em>Auto</em></span></a>
           <p>Premium mobile car detailing that comes to you. Hand wash, interior deep cleans, ceramic coatings and paint correction — done right, every time.</p>
           <address>
             50 W 4th St, New York, NY 10012, USA<br>
@@ -218,7 +218,7 @@
         <div>
           <h4>Quick Links</h4>
           <ul>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="services.html">Services</a></li>
             <li><a href="about.html">About Us</a></li>
             <li><a href="blog.html">Blog</a></li>
